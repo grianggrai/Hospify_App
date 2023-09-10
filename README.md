@@ -1,2 +1,3 @@
 # Hospify_App
-Hospify application flutter 
+Hospify application React Native
+
